@@ -16,7 +16,7 @@ My work has focused on understanding how the brain works, in particular how atte
 For this I have used medical imaging techniques such as MRI and EEG.
 
 In 2015, I started my postdoc in the lab of [Prof. Michael W. Cole](http://www.colelab.org/) at the Center for Molecular and Behavioral Neuroscience, Rutgers University.
-If you want to learn more about networks and health in the brain, check out my publications section!
+If you want to learn more about networks and health in the brain, check out my [publications](https://marjoleinspronk.github.io/publications/) section!
 
 And when I'm not doing data science, I can be found outside hiking, running or just enjoying one of the many beautiful beaches in San Diego!
 
