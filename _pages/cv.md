@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume""
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* M.Sc. in Bio- and Neuropsychology, Utrecht University
+* Ph.D in Cognitive Neuroscience, Maastricht University
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015-present: Postdoctoral Associate  
+  * Colelab, Rutgers University
+  * Duties included: 
+  * Supervisor: Professor Michael W. Cole
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2012-2015: Postdoctoral Researcher
+  * KU Leuven 
+  * Duties included: 
+  * Supervisor: Professor Wim Vanduffel
   
 Skills
 ======
@@ -37,10 +36,8 @@ Skills
 * Skill 3
 
 Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+=====
+  [A list of my publications can be found here](https://scholar.google.com/citations?user=GLHFdFMAAAAJ&hl=en)
   
 Talks
 ======
