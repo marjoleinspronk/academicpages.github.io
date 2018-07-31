@@ -5,13 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-#### Preprints / Papers under review
+**Preprints / Papers under review**
 
 **Spronk M**, Kulkarni K, Ji JL, Keane B, Anticevic A, Cole MW (2018). A whole-brain and cross-diagnostic perspective on functional brain network dysfunction. bioRxiv. [https://doi.org/10.1101/326728](https://www.biorxiv.org/content/early/2018/05/21/326728)
 
 **Spronk M**, Ji JL, Kulkarni K, Repovs G, Anticevic A, Cole MW (2018). Mapping the human brain's cortical-subcortical functional network organization. bioRxiv. [https://doi.org/10.1101/206292](https://www.biorxiv.org/content/early/2018/01/12/206292)
 
-#### Peer-reviewed publications**
+**Peer-reviewed publications**
 
 **Spronk M**, Vogel EK, Jonkman LM (2013). No behavioral or ERP evidence for a developmental lag in visual working memory capacity or filtering in adolescents and adults with ADHD. PLoS ONE. [https://doi.org/10.1371/journal.pone.0062673](https://doi.org/10.1371/journal.pone.0062673)
 
