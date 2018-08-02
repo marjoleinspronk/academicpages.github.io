@@ -5,9 +5,9 @@ var addressPoints = [
     -117.1627714
   ],
   [
-    "Egmond aan Zee, the Netherlands",
-    52.6213345,
-    4.6280413
+    "Newcastle upon Tyne, UK",
+    54.9770924,
+    -1.6142059
   ],
   [
     "Brussels, Belgium",
@@ -18,5 +18,10 @@ var addressPoints = [
     "Leuven, Belgium",
     50.879202,
     4.7011675
+  ],
+  [
+    "San Francisco, CA",
+    45.4423543,
+    -73.4373087
   ]
 ];
