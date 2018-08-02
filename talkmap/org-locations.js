@@ -5,18 +5,18 @@ var addressPoints = [
     -117.1627714
   ],
   [
-    "San Francisco, CA",
-    45.4423543,
-    -73.4373087
+    "Egmond aan Zee, the Netherlands",
+    52.6213345,
+    4.6280413
   ],
   [
-    "Nottingham, UK",
-    52.9534161,
-    -1.1492773
+    "Brussels, Belgium",
+    50.8465573,
+    4.351697
   ],
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728639
+    "Leuven, Belgium",
+    50.879202,
+    4.7011675
   ]
 ];
