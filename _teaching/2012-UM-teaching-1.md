@@ -1,11 +1,11 @@
 ---
 title: "Teaching experience"
 collection: teaching
-type: "Courses"
+type: "Courses & Projects"
 permalink: /teaching/2012-UM-teaching-1
-venue: "University 1, Department"
+venue: "Maastricht University / KU Leuven"
 date: 2012-01-01
-location: "Maastricht, The Netherlands"
+location: "The Netherlands & Belgium"
 ---
 
 **Courses in Psychology and Neuroscience (Bachelor and Master):**
