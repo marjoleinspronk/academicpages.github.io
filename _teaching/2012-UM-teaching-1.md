@@ -9,12 +9,12 @@ location: "The Netherlands & Belgium"
 ---
 
 Courses in Psychology and Neuroscience (Bachelor and Master):  
-Development and Learning (including practical Observation)  
-Psychodiagnostics  
-Scientific Writing  
-Perception, Action & Motor Development  
+* Development and Learning (including practical Observation)  
+* Psychodiagnostics  
+* Scientific Writing  
+* Perception, Action & Motor Development  
   
 Supervisor of Bachelor & Master theses and lab rotations:       
-Master students in Biomedical Science, University of Leuven (MRI project on multimodal processing in the non-human primate brain).  
-Master students in Developmental Cognitive Neuroscience, Maastricht University (EEG-projects on working memory and attention in ADHD).  
-Bachelor thesis Psychology, Maastricht University (Efficacy of neurofeedback as a therapy in ADHD).  
+* Master students in Biomedical Science, University of Leuven (MRI projects)  
+* Master students in Developmental Cognitive Neuroscience, Maastricht University (EEG projects)  
+* Bachelor thesis Psychology, Maastricht University (Neurofeedback and ADHD) 
